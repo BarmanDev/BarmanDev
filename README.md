@@ -3,10 +3,7 @@
     <h1 align="center">Welcome to my github profile 😄 </h1>
     <h3 align="justify">
         Hello! I'm Borja Fernández, a technology enthusiast and web application developer. Although I started my professional career as a waiter, I have always been passionate about programming and hardware manipulation. I'm the one they always call when their computer breaks down!
-        I completed my training as a Higher Technician in Web Application Development in 2023, and I have acquired deep knowledge in different programming languages. The ones that have fascinated me the most are Java, Python, and PHP. <br> <br>
-        My main goal is to combine my programming skills with my customer service experience, providing innovative and efficient solutions through web application development. I particularly enjoy problem-solving and creating intuitive and appealing solutions for users.
-        In my free time, I participate in personal projects on GitHub to expand my knowledge and share my skills with the community. I am excited to learn new technologies and explore new opportunities to continue growing as a developer.
-        I am always open to new collaborations and exciting challenges. Don't hesitate to contact me for interesting projects or any opportunity related to web application development!
+        I completed my training as a Higher Technician in Web Application Development in 2023, and I have acquired deep knowledge in different programming languages. The ones that have fascinated me the most are Java, Python, and PHP. 
     </h3>
 </div>
 
@@ -17,7 +14,7 @@
 
 - 🔭 I’m currently working on personal proyects.
 
-- 🌱 I’m currently learning Python, Django, Java, Spring.
+- 🌱 I’m currently learning Python.
 
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/borjafg/)
 
