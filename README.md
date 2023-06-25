@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on personal proyects.
 
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Spring and React.
 
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/borjafg/)
 
