@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on personal proyects.
 
-- 🌱 I'm currently studying a fullstack bootcamp with a focus on cloud.
+- 🌱 I'm currently studying a fullstack bootcamp with a focus on cloud in [FactoriaF5](https://www.factoriaf5.org/).
 
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/borjafg/)
 
