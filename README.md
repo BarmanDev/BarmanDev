@@ -1,48 +1,42 @@
-<div id="header" align="center">
-    <img src="https://media.tenor.com/tKYbGz3wNCAAAAAi/catscafe-penguin.gif" width="200">
-    <h1 align="center">Welcome to my github profile 😄 </h1>
-    <h3 align="justify">
-        Hello! I'm Borja Fernández, a technology enthusiast and web application developer. Although I started my professional career as a waiter, I have always been passionate about programming and hardware manipulation. I'm the one they always call when their computer breaks down!
-        I completed my training as a Higher Technician in Web Application Development in 2023, and I have acquired deep knowledge in different programming languages. The ones that have fascinated me the most are Java, Python, and PHP. 
-    </h3>
+<div align="center">
+  <img src="https://media.tenor.com/tKYbGz3wNCAAAAAi/catscafe-penguin.gif" width="120"/>
+  <h1>Welcome to my GitHub</h1>
+  <h3>Full Stack Developer | Java, Spring Boot, Vue 3 & Struts</h3>
 </div>
 
 ---
 
-### 👾 About Me 
- 
+### 👨‍💻 About Me
 
-- 🔭 I’m currently working on personal projects.
+Hi! I'm **Borja Fernández**, a passionate full stack developer currently working with **Spring Boot**, **Vue 3**, and **Struts**.
 
-- 🌱 I'm currently studying a fullstack bootcamp with a focus on cloud in [FactoriaF5](https://www.factoriaf5.org/).
+I completed my **Higher Technician in Web Application Development (DAW)** in 2023, where I built a strong foundation in frontend and backend technologies. Since then, I've been building real-world applications with modern frameworks and maintaining legacy systems.
 
-- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/borjafg/)
-
----
-
-
-<div align="left">
-    <h3>🔨 Languages and Tools:</h3>
-    <div id="tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="php" **alt="php" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>        
-        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" **alt="Java" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" **alt="Spring" width="40" height="40"/>
-    </div>
-</div>
+- 💼 Currently working as a Full Stack Developer at **Vitesia**, building web platforms with Spring Boot, Vue 3, and maintaining legacy systems with Struts.
+- 🌱 Also graduated from a fullstack + cloud bootcamp at [FactoriaF5](https://www.factoriaf5.org/).
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/borjafg/)
 
 ---
 
-### 📊 My Stats :
+### 🧰 Tech Stack
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BarmanDev&theme=tokyonight)](https://git.io/streak-stats)
+### 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BarmanDev&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=BarmanDev&theme=tokyonight" alt="GitHub Streak"/>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BarmanDev&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BarmanDev&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+</p>
+
+---
+
+### 🚀 Featured Project – RebelBrews 🍺
+
+> A rebellious and artisanal beer discovery platform, with support for user roles, brewery management, and favorite beer tracking. Built with clean architecture and modern technologies.
+
+- 🔧 **Backend (Spring Boot, JPA, MySQL, Spring Security)** → [RebelBrews-API](https://github.com/BarmanDev/RebelBrews-API)  
+- 🎨 **Frontend (Vue 3, Vue Router, Pinia)** → [RebelBrews-Front](https://github.com/BarmanDev/RebelBrews-Front)
+
 
